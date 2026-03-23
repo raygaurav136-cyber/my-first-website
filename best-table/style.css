@@ -1,0 +1,13 @@
+body{
+    background-color: darkgray;
+    h1{
+        text-align: center;
+    }
+     th,td {
+       border: 2px solid black;
+    }
+    table{
+        margin-left: 23%;
+        margin-top: 15%;
+    }
+}
