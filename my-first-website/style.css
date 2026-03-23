@@ -1,0 +1,86 @@
+/* code2 ka style */
+
+body {
+             background: linear-gradient(to right, #a8edea, #fed6e3);
+        
+
+        h1 {
+            text-align: center;
+        }
+
+        img {
+            display: block;
+            margin: auto;
+        }
+
+        body{
+           margin: 50px;
+
+        }
+
+    }
+ 
+    /* code3 ka style */
+
+         body {
+            background: linear-gradient(to right, #a8edea, #fed6e3);
+
+        }
+
+        img {
+            display: block;
+            margin: 40px;
+        }
+
+        h3 {
+            text-align: center;
+        }
+
+         body{
+           margin: 50px;
+
+        }
+        h2{
+            margin: 15px;
+        }
+
+        /* code4 ka style */
+
+        body {
+            background: linear-gradient(to right, #a8edea, #fed6e3);
+        }
+
+        h3 {
+            text-align: right;
+
+        }
+
+        body {
+            margin: 50px;
+
+        }
+
+        h1 {
+            margin: 15px;
+        }
+
+        .container {
+            display: flex;
+        }
+
+        .text {
+            width: 50%;
+        }
+
+        .image {
+            width: 50%;
+        }
+
+        .image img {
+            width: 100%;
+            height: auto;
+        }
+
+        /* code5 ka style */
+
+        
